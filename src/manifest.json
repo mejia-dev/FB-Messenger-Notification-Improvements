@@ -17,10 +17,10 @@
     "128": "icons/icon-128.png"
   },
   "permissions": [
-    "storage","tabs","offscreen"
+    "storage"
   ],
   "host_permissions": [
-    "https://messenger.com/*"
+    "*://*.messenger.com/*"
   ],
   "background": {
     "service_worker": "scripts/service-worker.js"
@@ -29,7 +29,7 @@
     {
       "js": ["scripts/injector.js"],
       "matches": [
-        "https://messenger.com/*"
+        "*://*.messenger.com/*"
       ]
     }
   ],
@@ -37,7 +37,7 @@
     {
       "resources": ["scripts/inject.js"],
       "matches": [
-        "https://messenger.com/*"
+        "*://*.messenger.com/*"
       ]
     }
   ]
