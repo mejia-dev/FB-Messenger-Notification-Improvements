@@ -20,16 +20,13 @@
     "storage"
   ],
   "host_permissions": [
-    "*://*.messenger.com/*"
+    "https://*.messenger.com/*"
   ],
-  "background": {
-    "service_worker": "scripts/service-worker.js"
-  },
   "content_scripts": [
     {
       "js": ["scripts/injector.js"],
       "matches": [
-        "*://*.messenger.com/*"
+        "https://*.messenger.com/*"
       ]
     }
   ],
@@ -37,7 +34,7 @@
     {
       "resources": ["scripts/inject.js"],
       "matches": [
-        "*://*.messenger.com/*"
+        "https://*.messenger.com/*"
       ]
     }
   ]
