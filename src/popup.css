@@ -50,3 +50,26 @@ p {
   padding-top: 1rem;
   box-sizing: border-box;
 }
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #191919;
+  }
+
+  #contentCard {
+    background-color: #222222;
+    color: #e7e9ed;
+    box-shadow: 0 0 2px #191919;
+  }
+
+  button,
+  label[for="audioFileUpload"] {
+    background-color: #4c4c4c;
+    color: #e7e9ed;
+  }
+
+  button:hover,
+  label[for="audioFileUpload"]:hover {
+    background-color: #5e5e5e;
+  }
+}
