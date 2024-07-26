@@ -7,7 +7,7 @@
     this.remove();
     chrome.storage.local.get(["uploadedAudio"], function (result) {
       if (result.uploadedAudio) {
-        document.dispatchEvent(new CustomEvent("FBMNSC-Initialize", { detail: result.uploadedAudio }));
+        document.dispatchEvent(new CustomEvent("MNSC-Initialize", { detail: result.uploadedAudio }));
       }
     });
   }

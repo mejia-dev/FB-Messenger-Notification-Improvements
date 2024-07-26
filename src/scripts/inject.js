@@ -1,4 +1,4 @@
-document.addEventListener("FBMNSC-Initialize", (message) => {
+document.addEventListener("MNSC-Initialize", (message) => {
   const customAudio = message.detail;
 
   const observer = new MutationObserver((mutations) => {
