@@ -35,7 +35,7 @@ View the [Changelog](CHANGELOG.md)
 
 Report issues in the [Issue Tracker](https://github.com/mejia-dev/Messenger-Notification-Sound-Changer/issues?state=open)
 
-Disclaimer: This extension is not in any way affiliated with, associated with, authorized, or endorsed by Facebook. Facebook Messenger is a registered trademark of Meta Platforms, Inc.
+Disclaimer: This extension is not in any way affiliated with, associated with, authorized, or endorsed by Facebook or Meta Platforms, Inc. Facebook Messenger is a registered trademark of Meta Platforms, Inc.
 
 Copyright (C) 2024 Aaron Mejia<br/>
 Open Source under the [GPLv3 License](LICENSE.txt).
