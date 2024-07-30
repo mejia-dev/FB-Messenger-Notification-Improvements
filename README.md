@@ -2,7 +2,7 @@
 <p align="center">Set a custom notification sound for Messenger!</a></p>
 
 <p align="center">
-<a href="https://chromewebstore.google.com/detail/onngpceaehmkognojpfjapopnaheaipa"><img src="https://storage.googleapis.com/web-dev-uploads/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/UV4C4ybeBTsZt43U4xis.png" alt="Messenger Notification Sound Changer on the Chrome Web Store" /></a>
+<a href="https://chromewebstore.google.com/detail/fcflhcnelkmegahafbbkhianmejealao"><img src="https://storage.googleapis.com/web-dev-uploads/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/UV4C4ybeBTsZt43U4xis.png" alt="Messenger Notification Sound Changer on the Chrome Web Store" /></a>
 </p>
 
 <hr /><br />
@@ -15,7 +15,7 @@ Uploaded audio data is stored exclusively on-device. Additonally, the extension 
 ## Setup / Installation Steps
 
 ### Option 1: Install from the Chrome Web Store
-- Navigate to https://chromewebstore.google.com/detail/onngpceaehmkognojpfjapopnaheaipa
+- Navigate to https://chromewebstore.google.com/detail/fcflhcnelkmegahafbbkhianmejealao
 - Click "Add to Chrome"
 
 ### Option 2: Install Unpacked Extension
